@@ -1,0 +1,9 @@
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\bin\Debug\netcoreapp3.1\EduvisualDomain.deps.json
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\bin\Debug\netcoreapp3.1\EduvisualDomain.dll
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\bin\Debug\netcoreapp3.1\EduvisualDomain.pdb
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\obj\Debug\netcoreapp3.1\EduvisualDomain.csprojAssemblyReference.cache
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\obj\Debug\netcoreapp3.1\EduvisualDomain.AssemblyInfoInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\obj\Debug\netcoreapp3.1\EduvisualDomain.AssemblyInfo.cs
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\obj\Debug\netcoreapp3.1\EduvisualDomain.csproj.CoreCompileInputs.cache
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\obj\Debug\netcoreapp3.1\EduvisualDomain.dll
+C:\Users\ano emangi\source\repos3\Fac\fac\Eduvisual\eduvisual\EduvisualDomain\obj\Debug\netcoreapp3.1\EduvisualDomain.pdb
